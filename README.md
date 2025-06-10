@@ -12,15 +12,21 @@ A modern, responsive Todo application built with React, TypeScript, Material-UI,
 
 ## App Screenshots
 
-<div align="center">
-  <img src="./project_images/main.png" alt="Main Todo Screen" width="700"/>
-  <p><em>Main Todo Screen</em></p>
+<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 200px; margin: 10px;">
+    <img src="./project_images/main.png" alt="Main Todo Screen" width="100%"/>
+    <p><em>Main Todo Screen</em></p>
+  </div>
   
-  <img src="./project_images/profile.png" alt="User Profile" width="700"/>
-  <p><em>User Profile</em></p>
+  <div style="flex: 1; min-width: 200px; margin: 10px;">
+    <img src="./project_images/profile.png" alt="User Profile" width="100%"/>
+    <p><em>User Profile</em></p>
+  </div>
   
-  <img src="./project_images/setting.png" alt="Settings Screen" width="700"/>
-  <p><em>Settings Screen</em></p>
+  <div style="flex: 1; min-width: 200px; margin: 10px;">
+    <img src="./project_images/setting.png" alt="Settings Screen" width="100%"/>
+    <p><em>Settings Screen</em></p>
+  </div>
 </div>
 
 ## Technology Stack
