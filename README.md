@@ -10,6 +10,19 @@ A modern, responsive Todo application built with React, TypeScript, Material-UI,
 - 📱 Responsive design works on all devices
 - 🎨 Beautiful Material-UI components with custom theming
 
+## App Screenshots
+
+<div align="center">
+  <img src="./project_images/main.png" alt="Main Todo Screen" width="700"/>
+  <p><em>Main Todo Screen</em></p>
+  
+  <img src="./project_images/profile.png" alt="User Profile" width="700"/>
+  <p><em>User Profile</em></p>
+  
+  <img src="./project_images/setting.png" alt="Settings Screen" width="700"/>
+  <p><em>Settings Screen</em></p>
+</div>
+
 ## Technology Stack
 
 - **Frontend**: React, TypeScript, Material-UI
